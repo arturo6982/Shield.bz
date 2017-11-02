@@ -1,0 +1,98 @@
+  
+.intro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           {Color:white;
+    background-color:gray;
+      font-family:courier;
+      text-align:left;
+      width:50%;
+        height:500px
+    }
+    
+                                
+   
+    div{
+    Color:red
+      
+      
+    } 
+    
+    .header {
+    color:yellow;
+      background-color:black;
+    font-size: 40px;
+      font-family:verdana;
+      
+    }
+    
+    body {
+      background-color:black;
+      text-align:center;
+    }  
+    .content{  
+      text-align:center;
+      background-color:black;
+    
+    
+    }
+    
+    
+ .peragraph {
+      
+      color:White;
+       background-color:black;
+   width:25%;
+     font-family:courier;
+    
+    
+    
+    
+    }
+    
+.intro {
+   margin:50px 0px;
+  
+  padding:15px;
+  
+  color:white;
+  
+  border-style:dashed double;
+ 
+  border-radius:50px;
+  
+  
+  
+}
+
+.video {
+  margin:50px 0px;
+  
+  padding:20px;
+  
+  color:red;
+  
+  border-style:dashed double;
+ 
+  border-radius:59px;
+  
+  
+  
+}
+
+.peragraph{
+  
+     margin:60px 0px;
+  
+  padding:30px;
+  
+  color:white;
+  
+  border-style:dashed;
+ 
+  border-radius:60px;
+  
+  
+  
+}
+
+    
+
+    
